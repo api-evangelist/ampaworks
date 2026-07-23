@@ -1,7 +1,27 @@
 aid: ampaworks
 name: AMPAworks
-description: AMPAworks is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  AMPAworks builds AI-powered smart-shelf inventory management for healthcare
+  and defense supply chains. Its platform pairs computer-vision cameras and
+  rolling kiosks that image inventory to auto-count stock in real time with
+  software that tracks supplies 24/7, automates reordering, and gives teams
+  live visibility to prevent stock-outs. The company reports outcomes such as
+  $15M in cost reduction, 25,000 hours saved on hand counting, and 72% fewer
+  stock-outs across more than 28 healthcare and operational organizations.
+  Backed by 500 Global, AMPAworks operates from offices in Santa Monica CA,
+  Buffalo NY, Hackensack NJ, and Ann Arbor MI.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://static.wixstatic.com/media/61ea23_33250338871346048f0c86462311abf7~mv2.png
 url: https://raw.githubusercontent.com/api-evangelist/ampaworks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,6 +34,13 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Inventory Management
+- Computer Vision
+- Artificial Intelligence
+- Supply Chain
+- Healthcare
+- Defense
+- Internet of Things
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +48,28 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/ampaworks-domain-security.yml
+- type: TrustCenter
+  url: security/ampaworks-trust-center.yml
+- type: Compliance
+  url: https://www.ampaworks.com/security
+- type: Documentation
+  url: https://www.ampaworks.com/docs
+- type: GettingStarted
+  url: https://www.ampaworks.com/docs
+- type: Blog
+  url: https://www.ampaworks.com/blog
+- type: Support
+  url: https://www.ampaworks.com/support
+- type: Login
+  url: https://www.ampaworksapp.com/login
+- type: SignUp
+  url: https://www.ampaworks.com/schedule-a-demo
 - type: Website
   url: https://ampaworks.com
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

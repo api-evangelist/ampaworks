@@ -1,0 +1,21 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.ampaworks.com/security
+url: https://www.ampaworks.com/security
+certifications:
+- SOC 2 Type II
+practices:
+- area: data-security
+  detail: Encryption at rest and in transit using AWS Key Management Service (KMS) with hardware security modules.
+- area: application-security
+  detail: Third-party penetration testing and GitHub Advanced Security (CodeQL) static code analysis in the development pipeline.
+- area: infrastructure-security
+  detail: Hosted on AWS using embedded security services including KMS, GuardDuty, and Inspector.
+legal_links:
+- Privacy Statement
+- Master Services Agreement
+- Subject Access Request
+evidence:
+- source: https://www.ampaworks.com/security
+  keywords: [soc 2 type ii, encryption, penetration testing, aws kms, guardduty]
+notes: SOC 2 Type II badge displayed on the public security page. No ISO 27001/HIPAA/FedRAMP claims and no vulnerability-disclosure program published.

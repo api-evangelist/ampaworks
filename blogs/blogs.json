@@ -1,0 +1,14 @@
+{
+  "repo": "ampaworks",
+  "feeds": [
+    {
+      "source": "https://www.ampaworks.com/docs",
+      "feed_url": "https://www.ampaworks.com/docs",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-20T13:31:34Z"
+}
