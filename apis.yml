@@ -45,8 +45,8 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Inventory Management
-- Computer-Vision
+- Inventory
+- Computer Vision
 - Artificial Intelligence
 - Supply Chain
 - Healthcare
@@ -61,6 +61,7 @@ tags_raw:
 - Healthcare
 - Defense
 - Internet of Things
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
